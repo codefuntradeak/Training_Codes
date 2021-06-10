@@ -1,3 +1,5 @@
+#This program is used to check if character is alphabet or not
+#This program is procedural program and hence none of the OOP concepts are present.
 def isalpha(char):
 	if len(char)>1:
 		return False
