@@ -1,4 +1,5 @@
 # A program to count digits in a number
+#This is a Procedural program so major OOP concepts are not present
 def countDigits(num):
 	digicnt = 0
 	while num>0:
