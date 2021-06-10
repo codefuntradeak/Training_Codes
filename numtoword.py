@@ -1,3 +1,6 @@
+#This program is use to convert a given number to hindi words
+#For proper functioning of program keep numbers.json file in the same directory ehere this program resides.
+#This is a procedural program so no major OOP concepts are present.
 import json,pprint
 
 def converter(num):
