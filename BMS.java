@@ -1,3 +1,10 @@
+/*Object Oriented Programming Concepts used:
+Classes and Objects: Book, BookList, BMS this are three classes used in program
+Encapsulation- The above mentioned classes encapsulate various member variables and member functions
+Aggregation - class Booklist "has a" class Book. So class Booklist and class Book are representing aggregation.
+Dependency - Class BMS has dependency on class BookList for creating a list of book and class Scanner for taking input also on class Integer to convert input string to int.
+*/
+//This program implements a book management system using list.
 import java.util.*;
 class Book{
   String book_id = "";
