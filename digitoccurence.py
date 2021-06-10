@@ -1,4 +1,5 @@
 # A program to count occurence of digits in a number
+# This program is procedural program and hence no major OOP concepts are present
 def occurenceofDigits(num):
 	digilist = [0]*10
 	while num>0:
