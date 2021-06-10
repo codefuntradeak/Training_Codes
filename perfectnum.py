@@ -1,3 +1,5 @@
+#This program is to check if a number is perfect number or not.
+#This is a procedural program so no major OOP concepts are used.
 def isPerfect( n ):
     divsum = 1
      
