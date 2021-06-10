@@ -1,3 +1,8 @@
+//This program implements matrix multiplication beteen matrices of any size.
+/*Object Oriented Programming Concepts used:
+Classes and Objects: We have a single class MultiplyMat here.
+Dependency - Class MultiplyMat is dependent on Scanner class for taking input.
+*/
 import java.util.*;
 
 class MultiplyMat{
