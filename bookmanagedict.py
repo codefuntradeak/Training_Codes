@@ -1,3 +1,9 @@
+# This program is to implement Book Management system using dictionary.
+'''Object Oriented Programming Concepts used:
+Classes and Objects: Book, BookDict this are the classes used in program
+Encapsulation- The above mentioned classes encapsulate various member variables and member functions
+Aggregation - class BookDict "has a" class Book. So class BookDict and class Book are representing aggregation.'''
+
 class Book():
     def __init__(self,id,name,author,cost):
         self.book_id = id
