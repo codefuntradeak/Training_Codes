@@ -1,3 +1,5 @@
+#This program outputs frequencies of words in a given paragraph
+#This is a procedural program so no major OOP concepts are used.
 def countfrequency(str):
     templ = str.split()
     freqdict = {}
