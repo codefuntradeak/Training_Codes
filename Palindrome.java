@@ -1,3 +1,8 @@
+//Program to check if string is palindrome
+/*Object Oriented Programming Concepts used:
+Classes and Objects: We only have one class Palindrome here.
+Dependency - Palindrome class is Dependent on Scanner class for reading input.
+*/
 import java.util.*;
 
 class Palindrome{
